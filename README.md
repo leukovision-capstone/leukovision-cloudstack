@@ -47,4 +47,4 @@ npm start
 The API will be running at http://0.0.0.0:8000.
 
 ## System Architecture
-![System Architecture](https://drive.google.com/file/d/1LnJn96BDV03xjRr46ynudezIZEBCT7LY/view)
+![System Architecture](https://raw.githubusercontent.com/leukovision-capstone/assets/refs/heads/main/api-architecture.jpeg)
