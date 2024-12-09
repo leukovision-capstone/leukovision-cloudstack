@@ -47,4 +47,4 @@ npm start
 The API will be running at http://0.0.0.0:8000.
 
 ## System Architecture
-![System Architecture](https://1drv.ms/i/c/e8dc7f824c2cf48c/EaHIWDcy-sNGtosGPmn9aeMBph2PoO8olL6Six_nO05kpg?e=AxLrSk)
+![System Architecture](https://drive.google.com/file/d/1LnJn96BDV03xjRr46ynudezIZEBCT7LY/view)
