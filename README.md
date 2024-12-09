@@ -54,7 +54,7 @@ The API will be running at http://localhost:3000.
 
 ## System Architecture
 
-![System Architecture](https://raw.githubusercontent.com/leukovision-capstone/assets/refs/heads/main/api-architecture.jpeg)
+![System Architecture](https://raw.githubusercontent.com/leukovision-capstone/.github/refs/heads/main/assets/api-architecture.jpeg)
 
 # License
 
